@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/chenyuchiao/Desktop/ds/b_p_tree/main.c
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+time.h
+-
+
