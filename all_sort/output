@@ -1,0 +1,3200 @@
+n = 1
+insertion sort => 0.900000 
+quick sort => 0.800000 
+merge sort => 0.800000 
+heap sort => 0.850000 
+composite sort => 0.750000 
+
+
+n = 26
+insertion sort => 1.500000 
+quick sort => 1.500000 
+merge sort => 1.720000 
+heap sort => 1.900000 
+composite sort => 1.300000 
+
+
+n = 51
+insertion sort => 3.200000 
+quick sort => 2.100000 
+merge sort => 2.840000 
+heap sort => 3.000000 
+composite sort => 2.150000 
+
+
+n = 76
+insertion sort => 5.400000 
+quick sort => 3.400000 
+merge sort => 4.280000 
+heap sort => 4.650000 
+composite sort => 3.500000 
+
+
+n = 101
+insertion sort => 8.600000 
+quick sort => 3.400000 
+merge sort => 5.680000 
+heap sort => 6.350000 
+composite sort => 3.800000 
+
+
+n = 126
+insertion sort => 12.600000 
+quick sort => 7.300000 
+merge sort => 5.880000 
+heap sort => 6.900000 
+composite sort => 4.300000 
+
+
+n = 151
+insertion sort => 16.200000 
+quick sort => 5.200000 
+merge sort => 7.800000 
+heap sort => 8.400000 
+composite sort => 4.950000 
+
+
+n = 176
+insertion sort => 19.900000 
+quick sort => 6.000000 
+merge sort => 8.920000 
+heap sort => 10.000000 
+composite sort => 5.550000 
+
+
+n = 201
+insertion sort => 26.300000 
+quick sort => 7.300000 
+merge sort => 10.160000 
+heap sort => 11.850000 
+composite sort => 6.850000 
+
+
+n = 226
+insertion sort => 32.800000 
+quick sort => 8.400000 
+merge sort => 11.760000 
+heap sort => 13.750000 
+composite sort => 7.600000 
+
+
+n = 251
+insertion sort => 39.800000 
+quick sort => 9.200000 
+merge sort => 13.440000 
+heap sort => 16.600000 
+composite sort => 8.850000 
+
+
+n = 276
+insertion sort => 47.500000 
+quick sort => 10.400000 
+merge sort => 16.400000 
+heap sort => 18.950000 
+composite sort => 10.500000 
+
+
+n = 301
+insertion sort => 57.500000 
+quick sort => 11.400000 
+merge sort => 18.560000 
+heap sort => 22.350000 
+composite sort => 10.400000 
+
+
+n = 326
+insertion sort => 62.600000 
+quick sort => 13.200000 
+merge sort => 20.400000 
+heap sort => 24.900000 
+composite sort => 12.150000 
+
+
+n = 351
+insertion sort => 73.600000 
+quick sort => 14.300000 
+merge sort => 22.080000 
+heap sort => 27.200000 
+composite sort => 13.450000 
+
+
+n = 376
+insertion sort => 88.800000 
+quick sort => 15.900000 
+merge sort => 23.640000 
+heap sort => 29.950000 
+composite sort => 14.550000 
+
+
+n = 401
+insertion sort => 94.700000 
+quick sort => 16.500000 
+merge sort => 23.920000 
+heap sort => 31.300000 
+composite sort => 14.500000 
+
+
+n = 426
+insertion sort => 101.500000 
+quick sort => 17.400000 
+merge sort => 23.720000 
+heap sort => 32.450000 
+composite sort => 15.000000 
+
+
+n = 451
+insertion sort => 100.000000 
+quick sort => 17.400000 
+merge sort => 25.920000 
+heap sort => 32.550000 
+composite sort => 16.350000 
+
+
+n = 476
+insertion sort => 107.200000 
+quick sort => 19.700000 
+merge sort => 27.240000 
+heap sort => 35.350000 
+composite sort => 17.500000 
+
+
+n = 501
+insertion sort => 122.300000 
+quick sort => 21.400000 
+merge sort => 28.600000 
+heap sort => 38.200000 
+composite sort => 19.050000 
+
+
+n = 526
+insertion sort => 143.200000 
+quick sort => 30.600000 
+merge sort => 31.600000 
+heap sort => 41.100000 
+composite sort => 21.650000 
+
+
+n = 551
+insertion sort => 145.200000 
+quick sort => 25.600000 
+merge sort => 33.440000 
+heap sort => 43.900000 
+composite sort => 22.600000 
+
+
+n = 576
+insertion sort => 158.200000 
+quick sort => 26.400000 
+merge sort => 34.240000 
+heap sort => 45.000000 
+composite sort => 23.700000 
+
+
+n = 601
+insertion sort => 170.200000 
+quick sort => 29.600000 
+merge sort => 36.280000 
+heap sort => 47.050000 
+composite sort => 24.650000 
+
+
+n = 626
+insertion sort => 180.600000 
+quick sort => 31.000000 
+merge sort => 37.520000 
+heap sort => 49.250000 
+composite sort => 25.750000 
+
+
+n = 651
+insertion sort => 195.000000 
+quick sort => 32.600000 
+merge sort => 39.920000 
+heap sort => 51.950000 
+composite sort => 26.800000 
+
+
+n = 676
+insertion sort => 225.100000 
+quick sort => 33.600000 
+merge sort => 38.320000 
+heap sort => 53.900000 
+composite sort => 24.350000 
+
+
+n = 701
+insertion sort => 202.600000 
+quick sort => 31.200000 
+merge sort => 36.720000 
+heap sort => 47.350000 
+composite sort => 25.600000 
+
+
+n = 726
+insertion sort => 210.900000 
+quick sort => 31.900000 
+merge sort => 38.040000 
+heap sort => 49.200000 
+composite sort => 25.700000 
+
+
+n = 751
+insertion sort => 225.600000 
+quick sort => 34.600000 
+merge sort => 41.640000 
+heap sort => 51.600000 
+composite sort => 37.550000 
+
+
+n = 776
+insertion sort => 239.200000 
+quick sort => 36.800000 
+merge sort => 41.320000 
+heap sort => 53.900000 
+composite sort => 29.500000 
+
+
+n = 801
+insertion sort => 256.500000 
+quick sort => 38.600000 
+merge sort => 42.880000 
+heap sort => 55.500000 
+composite sort => 31.250000 
+
+
+n = 826
+insertion sort => 275.900000 
+quick sort => 51.800000 
+merge sort => 44.680000 
+heap sort => 66.300000 
+composite sort => 32.550000 
+
+
+n = 851
+insertion sort => 288.400000 
+quick sort => 39.300000 
+merge sort => 45.880000 
+heap sort => 59.750000 
+composite sort => 34.400000 
+
+
+n = 876
+insertion sort => 288.100000 
+quick sort => 43.900000 
+merge sort => 47.840000 
+heap sort => 62.950000 
+composite sort => 35.650000 
+
+
+n = 901
+insertion sort => 362.000000 
+quick sort => 45.600000 
+merge sort => 49.360000 
+heap sort => 64.700000 
+composite sort => 36.750000 
+
+
+n = 926
+insertion sort => 332.400000 
+quick sort => 47.000000 
+merge sort => 51.360000 
+heap sort => 67.600000 
+composite sort => 37.800000 
+
+
+n = 951
+insertion sort => 370.300000 
+quick sort => 54.100000 
+merge sort => 51.320000 
+heap sort => 69.400000 
+composite sort => 39.350000 
+
+
+n = 976
+insertion sort => 360.800000 
+quick sort => 49.000000 
+merge sort => 53.760000 
+heap sort => 69.350000 
+composite sort => 40.750000 
+
+
+n = 1001
+insertion sort => 400.300000 
+quick sort => 51.600000 
+merge sort => 56.760000 
+heap sort => 90.450000 
+composite sort => 41.300000 
+
+
+n = 1026
+insertion sort => 425.500000 
+quick sort => 55.200000 
+merge sort => 62.080000 
+heap sort => 77.400000 
+composite sort => 45.550000 
+
+
+n = 1051
+insertion sort => 473.800000 
+quick sort => 57.200000 
+merge sort => 61.720000 
+heap sort => 76.300000 
+composite sort => 44.750000 
+
+
+n = 1076
+insertion sort => 444.100000 
+quick sort => 57.700000 
+merge sort => 92.120000 
+heap sort => 81.850000 
+composite sort => 55.850000 
+
+
+n = 1101
+insertion sort => 563.200000 
+quick sort => 75.500000 
+merge sort => 75.000000 
+heap sort => 89.350000 
+composite sort => 57.550000 
+
+
+n = 1126
+insertion sort => 501.800000 
+quick sort => 63.300000 
+merge sort => 67.560000 
+heap sort => 84.500000 
+composite sort => 49.100000 
+
+
+n = 1151
+insertion sort => 525.900000 
+quick sort => 65.600000 
+merge sort => 71.920000 
+heap sort => 86.750000 
+composite sort => 56.650000 
+
+
+n = 1176
+insertion sort => 548.600000 
+quick sort => 64.800000 
+merge sort => 72.360000 
+heap sort => 96.150000 
+composite sort => 55.300000 
+
+
+n = 1201
+insertion sort => 566.500000 
+quick sort => 67.300000 
+merge sort => 73.720000 
+heap sort => 91.300000 
+composite sort => 55.000000 
+
+
+n = 1226
+insertion sort => 588.100000 
+quick sort => 77.500000 
+merge sort => 75.320000 
+heap sort => 93.700000 
+composite sort => 56.900000 
+
+
+n = 1251
+insertion sort => 602.900000 
+quick sort => 72.000000 
+merge sort => 77.280000 
+heap sort => 95.650000 
+composite sort => 66.550000 
+
+
+n = 1276
+insertion sort => 627.800000 
+quick sort => 74.100000 
+merge sort => 78.800000 
+heap sort => 99.750000 
+composite sort => 60.350000 
+
+
+n = 1301
+insertion sort => 627.400000 
+quick sort => 74.100000 
+merge sort => 80.760000 
+heap sort => 100.800000 
+composite sort => 59.200000 
+
+
+n = 1326
+insertion sort => 654.300000 
+quick sort => 76.500000 
+merge sort => 82.200000 
+heap sort => 110.700000 
+composite sort => 61.850000 
+
+
+n = 1351
+insertion sort => 715.800000 
+quick sort => 78.700000 
+merge sort => 82.160000 
+heap sort => 109.050000 
+composite sort => 67.100000 
+
+
+n = 1376
+insertion sort => 749.600000 
+quick sort => 80.400000 
+merge sort => 86.400000 
+heap sort => 107.650000 
+composite sort => 65.900000 
+
+
+n = 1401
+insertion sort => 788.100000 
+quick sort => 82.500000 
+merge sort => 88.280000 
+heap sort => 117.900000 
+composite sort => 66.950000 
+
+
+n = 1426
+insertion sort => 778.000000 
+quick sort => 86.500000 
+merge sort => 89.440000 
+heap sort => 111.850000 
+composite sort => 69.850000 
+
+
+n = 1451
+insertion sort => 824.600000 
+quick sort => 87.400000 
+merge sort => 91.600000 
+heap sort => 114.750000 
+composite sort => 76.000000 
+
+
+n = 1476
+insertion sort => 847.200000 
+quick sort => 86.300000 
+merge sort => 94.520000 
+heap sort => 116.950000 
+composite sort => 91.050000 
+
+
+n = 1501
+insertion sort => 871.900000 
+quick sort => 90.400000 
+merge sort => 94.760000 
+heap sort => 119.200000 
+composite sort => 71.950000 
+
+
+n = 1526
+insertion sort => 901.100000 
+quick sort => 92.700000 
+merge sort => 98.040000 
+heap sort => 121.350000 
+composite sort => 74.750000 
+
+
+n = 1551
+insertion sort => 945.300000 
+quick sort => 94.200000 
+merge sort => 99.280000 
+heap sort => 131.200000 
+composite sort => 75.950000 
+
+
+n = 1576
+insertion sort => 982.700000 
+quick sort => 95.500000 
+merge sort => 101.760000 
+heap sort => 126.250000 
+composite sort => 79.100000 
+
+
+n = 1601
+insertion sort => 956.100000 
+quick sort => 93.800000 
+merge sort => 110.840000 
+heap sort => 126.700000 
+composite sort => 81.850000 
+
+
+n = 1626
+insertion sort => 1019.600000 
+quick sort => 95.400000 
+merge sort => 111.000000 
+heap sort => 127.100000 
+composite sort => 81.850000 
+
+
+n = 1651
+insertion sort => 1058.900000 
+quick sort => 102.900000 
+merge sort => 106.480000 
+heap sort => 133.950000 
+composite sort => 83.900000 
+
+
+n = 1676
+insertion sort => 1148.500000 
+quick sort => 107.000000 
+merge sort => 108.120000 
+heap sort => 136.400000 
+composite sort => 85.800000 
+
+
+n = 1701
+insertion sort => 1124.300000 
+quick sort => 106.200000 
+merge sort => 110.520000 
+heap sort => 138.150000 
+composite sort => 87.400000 
+
+
+n = 1726
+insertion sort => 1169.000000 
+quick sort => 107.400000 
+merge sort => 113.360000 
+heap sort => 149.300000 
+composite sort => 89.200000 
+
+
+n = 1751
+insertion sort => 1162.500000 
+quick sort => 107.000000 
+merge sort => 118.760000 
+heap sort => 143.050000 
+composite sort => 92.550000 
+
+
+n = 1776
+insertion sort => 1202.500000 
+quick sort => 105.200000 
+merge sort => 115.760000 
+heap sort => 145.650000 
+composite sort => 89.250000 
+
+
+n = 1801
+insertion sort => 1262.800000 
+quick sort => 111.700000 
+merge sort => 118.360000 
+heap sort => 161.700000 
+composite sort => 94.100000 
+
+
+n = 1826
+insertion sort => 1270.800000 
+quick sort => 114.300000 
+merge sort => 120.840000 
+heap sort => 150.550000 
+composite sort => 94.200000 
+
+
+n = 1851
+insertion sort => 1301.600000 
+quick sort => 116.200000 
+merge sort => 121.760000 
+heap sort => 154.100000 
+composite sort => 95.550000 
+
+
+n = 1876
+insertion sort => 1360.100000 
+quick sort => 116.700000 
+merge sort => 124.040000 
+heap sort => 156.300000 
+composite sort => 101.650000 
+
+
+n = 1901
+insertion sort => 1395.700000 
+quick sort => 118.600000 
+merge sort => 134.080000 
+heap sort => 157.700000 
+composite sort => 99.000000 
+
+
+n = 1926
+insertion sort => 1421.000000 
+quick sort => 122.600000 
+merge sort => 127.240000 
+heap sort => 160.200000 
+composite sort => 103.400000 
+
+
+n = 1951
+insertion sort => 1456.800000 
+quick sort => 157.300000 
+merge sort => 127.560000 
+heap sort => 163.900000 
+composite sort => 97.450000 
+
+
+n = 1976
+insertion sort => 1435.200000 
+quick sort => 126.800000 
+merge sort => 132.240000 
+heap sort => 170.000000 
+composite sort => 103.700000 
+
+
+n = 2001
+insertion sort => 1585.600000 
+quick sort => 126.600000 
+merge sort => 134.280000 
+heap sort => 168.800000 
+composite sort => 106.150000 
+
+
+n = 2026
+insertion sort => 1599.300000 
+quick sort => 129.300000 
+merge sort => 135.920000 
+heap sort => 170.300000 
+composite sort => 117.200000 
+
+
+n = 2051
+insertion sort => 1653.900000 
+quick sort => 130.400000 
+merge sort => 141.360000 
+heap sort => 173.550000 
+composite sort => 111.500000 
+
+
+n = 2076
+insertion sort => 1743.500000 
+quick sort => 133.600000 
+merge sort => 141.280000 
+heap sort => 176.850000 
+composite sort => 110.600000 
+
+
+n = 2101
+insertion sort => 1731.500000 
+quick sort => 129.800000 
+merge sort => 149.840000 
+heap sort => 176.250000 
+composite sort => 111.800000 
+
+
+n = 2126
+insertion sort => 1770.900000 
+quick sort => 132.700000 
+merge sort => 144.280000 
+heap sort => 178.550000 
+composite sort => 113.850000 
+
+
+n = 2151
+insertion sort => 1798.800000 
+quick sort => 141.300000 
+merge sort => 148.800000 
+heap sort => 184.900000 
+composite sort => 117.750000 
+
+
+n = 2176
+insertion sort => 1792.400000 
+quick sort => 154.500000 
+merge sort => 147.600000 
+heap sort => 184.750000 
+composite sort => 118.850000 
+
+
+n = 2201
+insertion sort => 1837.300000 
+quick sort => 138.500000 
+merge sort => 148.960000 
+heap sort => 185.100000 
+composite sort => 119.850000 
+
+
+n = 2226
+insertion sort => 1932.600000 
+quick sort => 141.500000 
+merge sort => 151.400000 
+heap sort => 190.000000 
+composite sort => 123.750000 
+
+
+n = 2251
+insertion sort => 1976.200000 
+quick sort => 175.600000 
+merge sort => 154.280000 
+heap sort => 193.050000 
+composite sort => 121.150000 
+
+
+n = 2276
+insertion sort => 2021.200000 
+quick sort => 149.100000 
+merge sort => 155.080000 
+heap sort => 196.300000 
+composite sort => 122.750000 
+
+
+n = 2301
+insertion sort => 2037.300000 
+quick sort => 148.300000 
+merge sort => 156.240000 
+heap sort => 200.600000 
+composite sort => 127.000000 
+
+
+n = 2326
+insertion sort => 2030.600000 
+quick sort => 144.800000 
+merge sort => 160.240000 
+heap sort => 233.450000 
+composite sort => 126.250000 
+
+
+n = 2351
+insertion sort => 2126.300000 
+quick sort => 148.000000 
+merge sort => 161.240000 
+heap sort => 201.350000 
+composite sort => 128.200000 
+
+
+n = 2376
+insertion sort => 2212.900000 
+quick sort => 155.900000 
+merge sort => 162.920000 
+heap sort => 204.400000 
+composite sort => 131.800000 
+
+
+n = 2401
+insertion sort => 2226.600000 
+quick sort => 151.800000 
+merge sort => 164.480000 
+heap sort => 205.550000 
+composite sort => 131.150000 
+
+
+n = 2426
+insertion sort => 2238.600000 
+quick sort => 153.600000 
+merge sort => 166.480000 
+heap sort => 211.550000 
+composite sort => 134.100000 
+
+
+n = 2451
+insertion sort => 2309.100000 
+quick sort => 156.900000 
+merge sort => 167.560000 
+heap sort => 211.750000 
+composite sort => 137.700000 
+
+
+n = 2476
+insertion sort => 2365.600000 
+quick sort => 158.400000 
+merge sort => 170.120000 
+heap sort => 214.350000 
+composite sort => 138.700000 
+
+
+n = 2501
+insertion sort => 2302.200000 
+quick sort => 160.900000 
+merge sort => 172.120000 
+heap sort => 215.600000 
+composite sort => 141.650000 
+
+
+n = 2526
+insertion sort => 2396.300000 
+quick sort => 160.800000 
+merge sort => 174.080000 
+heap sort => 220.300000 
+composite sort => 141.700000 
+
+
+n = 2551
+insertion sort => 2422.700000 
+quick sort => 165.700000 
+merge sort => 176.960000 
+heap sort => 248.900000 
+composite sort => 146.500000 
+
+
+n = 2576
+insertion sort => 2621.400000 
+quick sort => 164.300000 
+merge sort => 177.600000 
+heap sort => 222.900000 
+composite sort => 143.450000 
+
+
+n = 2601
+insertion sort => 2647.300000 
+quick sort => 166.400000 
+merge sort => 179.640000 
+heap sort => 225.550000 
+composite sort => 145.950000 
+
+
+n = 2626
+insertion sort => 2920.300000 
+quick sort => 240.500000 
+merge sort => 181.280000 
+heap sort => 253.550000 
+composite sort => 151.850000 
+
+
+n = 2651
+insertion sort => 2683.300000 
+quick sort => 169.700000 
+merge sort => 183.440000 
+heap sort => 237.750000 
+composite sort => 149.100000 
+
+
+n = 2676
+insertion sort => 2772.500000 
+quick sort => 175.500000 
+merge sort => 184.880000 
+heap sort => 235.300000 
+composite sort => 154.500000 
+
+
+n = 2701
+insertion sort => 2821.900000 
+quick sort => 184.700000 
+merge sort => 186.320000 
+heap sort => 235.800000 
+composite sort => 153.750000 
+
+
+n = 2726
+insertion sort => 2802.900000 
+quick sort => 174.300000 
+merge sort => 194.680000 
+heap sort => 240.750000 
+composite sort => 154.000000 
+
+
+n = 2751
+insertion sort => 2954.800000 
+quick sort => 212.800000 
+merge sort => 193.280000 
+heap sort => 239.200000 
+composite sort => 159.400000 
+
+
+n = 2776
+insertion sort => 3097.100000 
+quick sort => 181.000000 
+merge sort => 193.080000 
+heap sort => 242.150000 
+composite sort => 158.100000 
+
+
+n = 2801
+insertion sort => 3015.600000 
+quick sort => 184.900000 
+merge sort => 195.040000 
+heap sort => 246.500000 
+composite sort => 160.800000 
+
+
+n = 2826
+insertion sort => 3080.900000 
+quick sort => 187.100000 
+merge sort => 196.760000 
+heap sort => 250.250000 
+composite sort => 164.350000 
+
+
+n = 2851
+insertion sort => 3144.000000 
+quick sort => 186.600000 
+merge sort => 199.160000 
+heap sort => 251.450000 
+composite sort => 163.950000 
+
+
+n = 2876
+insertion sort => 3198.400000 
+quick sort => 192.500000 
+merge sort => 201.920000 
+heap sort => 267.150000 
+composite sort => 170.250000 
+
+
+n = 2901
+insertion sort => 3259.100000 
+quick sort => 191.900000 
+merge sort => 203.560000 
+heap sort => 256.150000 
+composite sort => 168.900000 
+
+
+n = 2926
+insertion sort => 3211.700000 
+quick sort => 191.700000 
+merge sort => 214.200000 
+heap sort => 258.150000 
+composite sort => 168.600000 
+
+
+n = 2951
+insertion sort => 3284.700000 
+quick sort => 201.200000 
+merge sort => 206.560000 
+heap sort => 262.150000 
+composite sort => 172.750000 
+
+
+n = 2976
+insertion sort => 3387.600000 
+quick sort => 195.700000 
+merge sort => 213.000000 
+heap sort => 264.250000 
+composite sort => 172.650000 
+
+
+n = 3001
+insertion sort => 3470.300000 
+quick sort => 208.800000 
+merge sort => 213.240000 
+heap sort => 266.600000 
+composite sort => 173.650000 
+
+
+n = 3026
+insertion sort => 3394.300000 
+quick sort => 200.200000 
+merge sort => 275.040000 
+heap sort => 386.900000 
+composite sort => 197.250000 
+
+
+n = 3051
+insertion sort => 3530.300000 
+quick sort => 220.200000 
+merge sort => 214.960000 
+heap sort => 272.000000 
+composite sort => 175.550000 
+
+
+n = 3076
+insertion sort => 3678.600000 
+quick sort => 214.600000 
+merge sort => 218.120000 
+heap sort => 275.200000 
+composite sort => 178.650000 
+
+
+n = 3101
+insertion sort => 3567.500000 
+quick sort => 206.200000 
+merge sort => 230.040000 
+heap sort => 278.850000 
+composite sort => 183.300000 
+
+
+n = 3126
+insertion sort => 3702.400000 
+quick sort => 209.900000 
+merge sort => 220.760000 
+heap sort => 289.000000 
+composite sort => 180.700000 
+
+
+n = 3151
+insertion sort => 3726.400000 
+quick sort => 210.400000 
+merge sort => 222.880000 
+heap sort => 287.000000 
+composite sort => 195.600000 
+
+
+n = 3176
+insertion sort => 3815.300000 
+quick sort => 214.200000 
+merge sort => 224.960000 
+heap sort => 284.500000 
+composite sort => 188.950000 
+
+
+n = 3201
+insertion sort => 3907.100000 
+quick sort => 215.400000 
+merge sort => 230.320000 
+heap sort => 288.650000 
+composite sort => 190.250000 
+
+
+n = 3226
+insertion sort => 4122.700000 
+quick sort => 210.700000 
+merge sort => 230.800000 
+heap sort => 288.250000 
+composite sort => 184.900000 
+
+
+n = 3251
+insertion sort => 4022.900000 
+quick sort => 218.400000 
+merge sort => 256.120000 
+heap sort => 294.200000 
+composite sort => 194.050000 
+
+
+n = 3276
+insertion sort => 3978.800000 
+quick sort => 218.900000 
+merge sort => 244.920000 
+heap sort => 299.550000 
+composite sort => 194.900000 
+
+
+n = 3301
+insertion sort => 4125.000000 
+quick sort => 221.200000 
+merge sort => 234.280000 
+heap sort => 296.850000 
+composite sort => 195.100000 
+
+
+n = 3326
+insertion sort => 4242.300000 
+quick sort => 220.000000 
+merge sort => 235.480000 
+heap sort => 302.900000 
+composite sort => 195.250000 
+
+
+n = 3351
+insertion sort => 4135.800000 
+quick sort => 228.800000 
+merge sort => 239.560000 
+heap sort => 303.700000 
+composite sort => 205.350000 
+
+
+n = 3376
+insertion sort => 4211.300000 
+quick sort => 222.200000 
+merge sort => 239.880000 
+heap sort => 306.150000 
+composite sort => 198.350000 
+
+
+n = 3401
+insertion sort => 4319.700000 
+quick sort => 240.000000 
+merge sort => 242.200000 
+heap sort => 331.100000 
+composite sort => 206.850000 
+
+
+n = 3426
+insertion sort => 4430.800000 
+quick sort => 230.300000 
+merge sort => 247.080000 
+heap sort => 309.850000 
+composite sort => 204.950000 
+
+
+n = 3451
+insertion sort => 4590.300000 
+quick sort => 228.700000 
+merge sort => 245.960000 
+heap sort => 313.450000 
+composite sort => 201.400000 
+
+
+n = 3476
+insertion sort => 5064.800000 
+quick sort => 239.000000 
+merge sort => 248.640000 
+heap sort => 315.100000 
+composite sort => 219.050000 
+
+
+n = 3501
+insertion sort => 4539.800000 
+quick sort => 246.400000 
+merge sort => 265.880000 
+heap sort => 319.100000 
+composite sort => 221.850000 
+
+
+n = 3526
+insertion sort => 4778.000000 
+quick sort => 241.000000 
+merge sort => 252.880000 
+heap sort => 331.050000 
+composite sort => 211.250000 
+
+
+n = 3551
+insertion sort => 4902.900000 
+quick sort => 268.000000 
+merge sort => 268.960000 
+heap sort => 326.750000 
+composite sort => 213.400000 
+
+
+n = 3576
+insertion sort => 4709.800000 
+quick sort => 276.600000 
+merge sort => 256.400000 
+heap sort => 331.150000 
+composite sort => 215.550000 
+
+
+n = 3601
+insertion sort => 5070.800000 
+quick sort => 261.400000 
+merge sort => 261.480000 
+heap sort => 329.150000 
+composite sort => 216.150000 
+
+
+n = 3626
+insertion sort => 4955.500000 
+quick sort => 251.700000 
+merge sort => 260.440000 
+heap sort => 338.700000 
+composite sort => 219.900000 
+
+
+n = 3651
+insertion sort => 5165.000000 
+quick sort => 268.500000 
+merge sort => 262.880000 
+heap sort => 335.500000 
+composite sort => 223.350000 
+
+
+n = 3676
+insertion sort => 4993.200000 
+quick sort => 251.100000 
+merge sort => 270.120000 
+heap sort => 334.950000 
+composite sort => 229.250000 
+
+
+n = 3701
+insertion sort => 5108.000000 
+quick sort => 250.500000 
+merge sort => 269.960000 
+heap sort => 339.100000 
+composite sort => 228.250000 
+
+
+n = 3726
+insertion sort => 5186.200000 
+quick sort => 298.200000 
+merge sort => 268.480000 
+heap sort => 341.750000 
+composite sort => 224.250000 
+
+
+n = 3751
+insertion sort => 5148.300000 
+quick sort => 274.800000 
+merge sort => 276.400000 
+heap sort => 344.400000 
+composite sort => 230.700000 
+
+
+n = 3776
+insertion sort => 5418.500000 
+quick sort => 256.700000 
+merge sort => 272.560000 
+heap sort => 348.450000 
+composite sort => 228.100000 
+
+
+n = 3801
+insertion sort => 5577.100000 
+quick sort => 257.200000 
+merge sort => 273.640000 
+heap sort => 349.200000 
+composite sort => 228.100000 
+
+
+n = 3826
+insertion sort => 5577.500000 
+quick sort => 262.300000 
+merge sort => 275.960000 
+heap sort => 351.750000 
+composite sort => 245.500000 
+
+
+n = 3851
+insertion sort => 5584.500000 
+quick sort => 267.700000 
+merge sort => 278.480000 
+heap sort => 354.300000 
+composite sort => 237.950000 
+
+
+n = 3876
+insertion sort => 5607.300000 
+quick sort => 268.100000 
+merge sort => 282.400000 
+heap sort => 356.700000 
+composite sort => 236.150000 
+
+
+n = 3901
+insertion sort => 5824.900000 
+quick sort => 279.200000 
+merge sort => 271.240000 
+heap sort => 348.750000 
+composite sort => 243.750000 
+
+
+n = 3926
+insertion sort => 5933.900000 
+quick sort => 321.100000 
+merge sort => 284.720000 
+heap sort => 363.000000 
+composite sort => 236.850000 
+
+
+n = 3951
+insertion sort => 6130.300000 
+quick sort => 276.700000 
+merge sort => 286.000000 
+heap sort => 366.700000 
+composite sort => 246.250000 
+
+
+n = 3976
+insertion sort => 5909.400000 
+quick sort => 271.000000 
+merge sort => 287.680000 
+heap sort => 370.550000 
+composite sort => 241.000000 
+
+
+n = 4001
+insertion sort => 5921.500000 
+quick sort => 286.000000 
+merge sort => 296.360000 
+heap sort => 369.950000 
+composite sort => 253.350000 
+
+
+n = 4026
+insertion sort => 6127.200000 
+quick sort => 287.500000 
+merge sort => 292.560000 
+heap sort => 382.750000 
+composite sort => 248.650000 
+
+
+n = 4051
+insertion sort => 6241.100000 
+quick sort => 284.900000 
+merge sort => 293.880000 
+heap sort => 375.300000 
+composite sort => 252.600000 
+
+
+n = 4076
+insertion sort => 6260.700000 
+quick sort => 330.500000 
+merge sort => 296.640000 
+heap sort => 379.650000 
+composite sort => 253.150000 
+
+
+n = 4101
+insertion sort => 6211.100000 
+quick sort => 287.800000 
+merge sort => 331.320000 
+heap sort => 372.150000 
+composite sort => 370.750000 
+
+
+n = 4126
+insertion sort => 6669.500000 
+quick sort => 286.800000 
+merge sort => 315.320000 
+heap sort => 376.600000 
+composite sort => 250.900000 
+
+
+n = 4151
+insertion sort => 6538.300000 
+quick sort => 306.700000 
+merge sort => 310.120000 
+heap sort => 368.950000 
+composite sort => 247.200000 
+
+
+n = 4176
+insertion sort => 6621.300000 
+quick sort => 287.500000 
+merge sort => 342.000000 
+heap sort => 389.300000 
+composite sort => 289.150000 
+
+
+n = 4201
+insertion sort => 6618.800000 
+quick sort => 293.500000 
+merge sort => 325.800000 
+heap sort => 377.750000 
+composite sort => 263.250000 
+
+
+n = 4226
+insertion sort => 6733.700000 
+quick sort => 294.400000 
+merge sort => 317.440000 
+heap sort => 375.850000 
+composite sort => 263.650000 
+
+
+n = 4251
+insertion sort => 6866.700000 
+quick sort => 332.600000 
+merge sort => 314.040000 
+heap sort => 396.850000 
+composite sort => 267.000000 
+
+
+n = 4276
+insertion sort => 7041.400000 
+quick sort => 296.000000 
+merge sort => 317.480000 
+heap sort => 393.400000 
+composite sort => 257.300000 
+
+
+n = 4301
+insertion sort => 6927.100000 
+quick sort => 299.400000 
+merge sort => 325.080000 
+heap sort => 385.700000 
+composite sort => 253.850000 
+
+
+n = 4326
+insertion sort => 7236.100000 
+quick sort => 302.600000 
+merge sort => 329.920000 
+heap sort => 401.000000 
+composite sort => 261.700000 
+
+
+n = 4351
+insertion sort => 7148.700000 
+quick sort => 303.500000 
+merge sort => 317.040000 
+heap sort => 394.250000 
+composite sort => 272.950000 
+
+
+n = 4376
+insertion sort => 7081.000000 
+quick sort => 309.500000 
+merge sort => 323.800000 
+heap sort => 395.950000 
+composite sort => 267.250000 
+
+
+n = 4401
+insertion sort => 7387.300000 
+quick sort => 307.400000 
+merge sort => 322.480000 
+heap sort => 397.200000 
+composite sort => 262.650000 
+
+
+n = 4426
+insertion sort => 7308.800000 
+quick sort => 322.800000 
+merge sort => 324.600000 
+heap sort => 399.050000 
+composite sort => 262.350000 
+
+
+n = 4451
+insertion sort => 7549.200000 
+quick sort => 310.900000 
+merge sort => 326.200000 
+heap sort => 405.750000 
+composite sort => 267.050000 
+
+
+n = 4476
+insertion sort => 7536.600000 
+quick sort => 311.600000 
+merge sort => 332.960000 
+heap sort => 418.550000 
+composite sort => 279.450000 
+
+
+n = 4501
+insertion sort => 7659.100000 
+quick sort => 322.000000 
+merge sort => 345.680000 
+heap sort => 422.450000 
+composite sort => 286.000000 
+
+
+n = 4526
+insertion sort => 7719.400000 
+quick sort => 316.200000 
+merge sort => 332.760000 
+heap sort => 413.100000 
+composite sort => 271.900000 
+
+
+n = 4551
+insertion sort => 7821.400000 
+quick sort => 317.400000 
+merge sort => 333.440000 
+heap sort => 407.600000 
+composite sort => 290.850000 
+
+
+n = 4576
+insertion sort => 8019.300000 
+quick sort => 322.200000 
+merge sort => 346.160000 
+heap sort => 417.850000 
+composite sort => 277.400000 
+
+
+n = 4601
+insertion sort => 7947.700000 
+quick sort => 320.900000 
+merge sort => 349.840000 
+heap sort => 432.550000 
+composite sort => 274.200000 
+
+
+n = 4626
+insertion sort => 7901.200000 
+quick sort => 336.100000 
+merge sort => 353.320000 
+heap sort => 455.100000 
+composite sort => 296.850000 
+
+
+n = 4651
+insertion sort => 7941.600000 
+quick sort => 338.800000 
+merge sort => 356.000000 
+heap sort => 448.550000 
+composite sort => 293.650000 
+
+
+n = 4676
+insertion sort => 8155.800000 
+quick sort => 342.100000 
+merge sort => 351.000000 
+heap sort => 419.700000 
+composite sort => 299.700000 
+
+
+n = 4701
+insertion sort => 8284.800000 
+quick sort => 334.500000 
+merge sort => 355.360000 
+heap sort => 447.900000 
+composite sort => 286.550000 
+
+
+n = 4726
+insertion sort => 8504.500000 
+quick sort => 355.400000 
+merge sort => 367.600000 
+heap sort => 433.550000 
+composite sort => 296.500000 
+
+
+n = 4751
+insertion sort => 8499.300000 
+quick sort => 371.700000 
+merge sort => 360.800000 
+heap sort => 437.250000 
+composite sort => 295.750000 
+
+
+n = 4776
+insertion sort => 8472.700000 
+quick sort => 358.600000 
+merge sort => 351.160000 
+heap sort => 443.350000 
+composite sort => 289.200000 
+
+
+n = 4801
+insertion sort => 8620.700000 
+quick sort => 337.900000 
+merge sort => 351.640000 
+heap sort => 445.300000 
+composite sort => 292.400000 
+
+
+n = 4826
+insertion sort => 8972.000000 
+quick sort => 342.600000 
+merge sort => 362.120000 
+heap sort => 437.400000 
+composite sort => 314.600000 
+
+
+n = 4851
+insertion sort => 8792.800000 
+quick sort => 341.500000 
+merge sort => 365.200000 
+heap sort => 443.000000 
+composite sort => 293.800000 
+
+
+n = 4876
+insertion sort => 8925.600000 
+quick sort => 345.500000 
+merge sort => 373.040000 
+heap sort => 448.250000 
+composite sort => 300.450000 
+
+
+n = 4901
+insertion sort => 9505.300000 
+quick sort => 437.600000 
+merge sort => 457.960000 
+heap sort => 565.450000 
+composite sort => 363.350000 
+
+
+n = 4926
+insertion sort => 9527.200000 
+quick sort => 348.500000 
+merge sort => 364.000000 
+heap sort => 487.350000 
+composite sort => 300.600000 
+
+
+n = 4951
+insertion sort => 9157.800000 
+quick sort => 366.200000 
+merge sort => 379.880000 
+heap sort => 483.750000 
+composite sort => 319.750000 
+
+
+n = 4976
+insertion sort => 9132.100000 
+quick sort => 353.400000 
+merge sort => 379.640000 
+heap sort => 451.050000 
+composite sort => 302.950000 
+
+
+n = 5001
+insertion sort => 9430.400000 
+quick sort => 361.800000 
+merge sort => 383.640000 
+heap sort => 476.100000 
+composite sort => 317.950000 
+
+
+n = 5026
+insertion sort => 9580.800000 
+quick sort => 391.800000 
+merge sort => 386.640000 
+heap sort => 479.550000 
+composite sort => 316.100000 
+
+
+n = 5051
+insertion sort => 9663.100000 
+quick sort => 364.000000 
+merge sort => 382.360000 
+heap sort => 497.300000 
+composite sort => 319.850000 
+
+
+n = 5076
+insertion sort => 9626.600000 
+quick sort => 364.700000 
+merge sort => 385.200000 
+heap sort => 468.200000 
+composite sort => 314.550000 
+
+
+n = 5101
+insertion sort => 9712.600000 
+quick sort => 358.100000 
+merge sort => 376.160000 
+heap sort => 463.350000 
+composite sort => 328.300000 
+
+
+n = 5126
+insertion sort => 9761.600000 
+quick sort => 392.700000 
+merge sort => 381.320000 
+heap sort => 480.600000 
+composite sort => 310.100000 
+
+
+n = 5151
+insertion sort => 9924.600000 
+quick sort => 361.700000 
+merge sort => 380.960000 
+heap sort => 508.550000 
+composite sort => 333.850000 
+
+
+n = 5176
+insertion sort => 10173.400000 
+quick sort => 387.800000 
+merge sort => 383.040000 
+heap sort => 485.600000 
+composite sort => 318.900000 
+
+
+n = 5201
+insertion sort => 10649.600000 
+quick sort => 369.000000 
+merge sort => 388.520000 
+heap sort => 498.300000 
+composite sort => 327.450000 
+
+
+n = 5226
+insertion sort => 10776.300000 
+quick sort => 385.900000 
+merge sort => 401.400000 
+heap sort => 527.250000 
+composite sort => 337.250000 
+
+
+n = 5251
+insertion sort => 10350.100000 
+quick sort => 397.600000 
+merge sort => 405.960000 
+heap sort => 503.300000 
+composite sort => 335.350000 
+
+
+n = 5276
+insertion sort => 10437.200000 
+quick sort => 381.000000 
+merge sort => 388.880000 
+heap sort => 489.450000 
+composite sort => 336.000000 
+
+
+n = 5301
+insertion sort => 10446.300000 
+quick sort => 383.400000 
+merge sort => 408.640000 
+heap sort => 503.950000 
+composite sort => 340.350000 
+
+
+n = 5326
+insertion sort => 10736.600000 
+quick sort => 380.400000 
+merge sort => 418.800000 
+heap sort => 499.400000 
+composite sort => 331.300000 
+
+
+n = 5351
+insertion sort => 10863.900000 
+quick sort => 386.000000 
+merge sort => 416.760000 
+heap sort => 523.950000 
+composite sort => 351.500000 
+
+
+n = 5376
+insertion sort => 10808.900000 
+quick sort => 383.300000 
+merge sort => 403.000000 
+heap sort => 504.450000 
+composite sort => 331.300000 
+
+
+n = 5401
+insertion sort => 10877.200000 
+quick sort => 387.000000 
+merge sort => 416.120000 
+heap sort => 513.600000 
+composite sort => 329.800000 
+
+
+n = 5426
+insertion sort => 11029.700000 
+quick sort => 383.800000 
+merge sort => 414.720000 
+heap sort => 501.450000 
+composite sort => 344.150000 
+
+
+n = 5451
+insertion sort => 10955.700000 
+quick sort => 390.400000 
+merge sort => 413.320000 
+heap sort => 498.150000 
+composite sort => 341.750000 
+
+
+n = 5476
+insertion sort => 11257.300000 
+quick sort => 396.500000 
+merge sort => 432.400000 
+heap sort => 523.900000 
+composite sort => 348.200000 
+
+
+n = 5501
+insertion sort => 11221.100000 
+quick sort => 420.400000 
+merge sort => 407.160000 
+heap sort => 512.950000 
+composite sort => 348.450000 
+
+
+n = 5526
+insertion sort => 11921.700000 
+quick sort => 396.300000 
+merge sort => 445.120000 
+heap sort => 527.450000 
+composite sort => 358.400000 
+
+
+n = 5551
+insertion sort => 11749.200000 
+quick sort => 407.400000 
+merge sort => 446.840000 
+heap sort => 509.000000 
+composite sort => 384.650000 
+
+
+n = 5576
+insertion sort => 11693.300000 
+quick sort => 397.800000 
+merge sort => 425.840000 
+heap sort => 515.400000 
+composite sort => 341.050000 
+
+
+n = 5601
+insertion sort => 11774.300000 
+quick sort => 405.800000 
+merge sort => 433.200000 
+heap sort => 540.800000 
+composite sort => 359.000000 
+
+
+n = 5626
+insertion sort => 11872.200000 
+quick sort => 411.200000 
+merge sort => 416.360000 
+heap sort => 538.200000 
+composite sort => 355.750000 
+
+
+n = 5651
+insertion sort => 12038.200000 
+quick sort => 423.800000 
+merge sort => 423.920000 
+heap sort => 518.350000 
+composite sort => 360.850000 
+
+
+n = 5676
+insertion sort => 11993.400000 
+quick sort => 412.200000 
+merge sort => 420.920000 
+heap sort => 583.000000 
+composite sort => 350.300000 
+
+
+n = 5701
+insertion sort => 12145.800000 
+quick sort => 412.000000 
+merge sort => 448.600000 
+heap sort => 533.100000 
+composite sort => 353.900000 
+
+
+n = 5726
+insertion sort => 12488.000000 
+quick sort => 416.500000 
+merge sort => 454.800000 
+heap sort => 536.100000 
+composite sort => 363.250000 
+
+
+n = 5751
+insertion sort => 12234.700000 
+quick sort => 423.400000 
+merge sort => 456.800000 
+heap sort => 555.300000 
+composite sort => 371.500000 
+
+
+n = 5776
+insertion sort => 12408.300000 
+quick sort => 425.200000 
+merge sort => 448.480000 
+heap sort => 566.200000 
+composite sort => 375.500000 
+
+
+n = 5801
+insertion sort => 12447.000000 
+quick sort => 428.900000 
+merge sort => 441.240000 
+heap sort => 534.300000 
+composite sort => 362.900000 
+
+
+n = 5826
+insertion sort => 12652.100000 
+quick sort => 420.500000 
+merge sort => 439.600000 
+heap sort => 537.350000 
+composite sort => 377.400000 
+
+
+n = 5851
+insertion sort => 13100.700000 
+quick sort => 441.800000 
+merge sort => 454.000000 
+heap sort => 570.450000 
+composite sort => 379.800000 
+
+
+n = 5876
+insertion sort => 12710.000000 
+quick sort => 451.000000 
+merge sort => 458.920000 
+heap sort => 566.100000 
+composite sort => 381.450000 
+
+
+n = 5901
+insertion sort => 12999.100000 
+quick sort => 439.000000 
+merge sort => 440.680000 
+heap sort => 558.200000 
+composite sort => 366.800000 
+
+
+n = 5926
+insertion sort => 13158.400000 
+quick sort => 433.000000 
+merge sort => 450.320000 
+heap sort => 565.300000 
+composite sort => 367.900000 
+
+
+n = 5951
+insertion sort => 13257.100000 
+quick sort => 466.100000 
+merge sort => 448.200000 
+heap sort => 550.050000 
+composite sort => 365.500000 
+
+
+n = 5976
+insertion sort => 13412.900000 
+quick sort => 468.500000 
+merge sort => 475.560000 
+heap sort => 579.650000 
+composite sort => 402.850000 
+
+
+n = 6001
+insertion sort => 13783.500000 
+quick sort => 447.900000 
+merge sort => 467.160000 
+heap sort => 584.300000 
+composite sort => 390.500000 
+
+
+n = 6026
+insertion sort => 13572.000000 
+quick sort => 439.300000 
+merge sort => 474.840000 
+heap sort => 558.300000 
+composite sort => 376.350000 
+
+
+n = 6051
+insertion sort => 13746.100000 
+quick sort => 440.900000 
+merge sort => 477.160000 
+heap sort => 588.600000 
+composite sort => 383.050000 
+
+
+n = 6076
+insertion sort => 13749.900000 
+quick sort => 445.400000 
+merge sort => 593.080000 
+heap sort => 619.650000 
+composite sort => 387.500000 
+
+
+n = 6101
+insertion sort => 13952.600000 
+quick sort => 462.400000 
+merge sort => 476.520000 
+heap sort => 590.400000 
+composite sort => 397.300000 
+
+
+n = 6126
+insertion sort => 14233.800000 
+quick sort => 439.500000 
+merge sort => 491.120000 
+heap sort => 571.850000 
+composite sort => 386.850000 
+
+
+n = 6151
+insertion sort => 14112.800000 
+quick sort => 467.000000 
+merge sort => 484.560000 
+heap sort => 592.850000 
+composite sort => 401.850000 
+
+
+n = 6176
+insertion sort => 14462.200000 
+quick sort => 454.900000 
+merge sort => 464.840000 
+heap sort => 574.050000 
+composite sort => 417.500000 
+
+
+n = 6201
+insertion sort => 14192.400000 
+quick sort => 446.700000 
+merge sort => 474.840000 
+heap sort => 596.550000 
+composite sort => 391.500000 
+
+
+n = 6226
+insertion sort => 14555.100000 
+quick sort => 484.600000 
+merge sort => 466.760000 
+heap sort => 578.450000 
+composite sort => 408.750000 
+
+
+n = 6251
+insertion sort => 14793.500000 
+quick sort => 460.100000 
+merge sort => 485.480000 
+heap sort => 589.450000 
+composite sort => 392.450000 
+
+
+n = 6276
+insertion sort => 14795.100000 
+quick sort => 460.300000 
+merge sort => 489.600000 
+heap sort => 611.350000 
+composite sort => 416.750000 
+
+
+n = 6301
+insertion sort => 14927.500000 
+quick sort => 461.800000 
+merge sort => 503.400000 
+heap sort => 628.400000 
+composite sort => 404.500000 
+
+
+n = 6326
+insertion sort => 15152.100000 
+quick sort => 463.700000 
+merge sort => 482.960000 
+heap sort => 590.300000 
+composite sort => 406.650000 
+
+
+n = 6351
+insertion sort => 15346.600000 
+quick sort => 469.300000 
+merge sort => 589.680000 
+heap sort => 632.850000 
+composite sort => 407.050000 
+
+
+n = 6376
+insertion sort => 15213.700000 
+quick sort => 462.800000 
+merge sort => 514.480000 
+heap sort => 609.900000 
+composite sort => 395.750000 
+
+
+n = 6401
+insertion sort => 15354.500000 
+quick sort => 476.900000 
+merge sort => 502.480000 
+heap sort => 631.650000 
+composite sort => 408.850000 
+
+
+n = 6426
+insertion sort => 15374.900000 
+quick sort => 460.600000 
+merge sort => 494.160000 
+heap sort => 603.400000 
+composite sort => 399.100000 
+
+
+n = 6451
+insertion sort => 15503.100000 
+quick sort => 469.300000 
+merge sort => 488.480000 
+heap sort => 616.150000 
+composite sort => 425.150000 
+
+
+n = 6476
+insertion sort => 15665.300000 
+quick sort => 484.200000 
+merge sort => 507.120000 
+heap sort => 628.650000 
+composite sort => 422.350000 
+
+
+n = 6501
+insertion sort => 15707.000000 
+quick sort => 468.900000 
+merge sort => 495.800000 
+heap sort => 629.700000 
+composite sort => 406.250000 
+
+
+n = 6526
+insertion sort => 16422.000000 
+quick sort => 506.000000 
+merge sort => 496.960000 
+heap sort => 640.300000 
+composite sort => 432.800000 
+
+
+n = 6551
+insertion sort => 16039.400000 
+quick sort => 472.600000 
+merge sort => 493.400000 
+heap sort => 632.000000 
+composite sort => 408.500000 
+
+
+n = 6576
+insertion sort => 16186.500000 
+quick sort => 498.000000 
+merge sort => 495.760000 
+heap sort => 637.500000 
+composite sort => 416.400000 
+
+
+n = 6601
+insertion sort => 16611.400000 
+quick sort => 514.200000 
+merge sort => 518.760000 
+heap sort => 644.850000 
+composite sort => 436.400000 
+
+
+n = 6626
+insertion sort => 16431.800000 
+quick sort => 478.600000 
+merge sort => 503.400000 
+heap sort => 618.050000 
+composite sort => 427.400000 
+
+
+n = 6651
+insertion sort => 16852.300000 
+quick sort => 482.100000 
+merge sort => 522.880000 
+heap sort => 621.450000 
+composite sort => 427.000000 
+
+
+n = 6676
+insertion sort => 16877.800000 
+quick sort => 492.500000 
+merge sort => 503.120000 
+heap sort => 639.550000 
+composite sort => 426.200000 
+
+
+n = 6701
+insertion sort => 17383.700000 
+quick sort => 500.100000 
+merge sort => 514.640000 
+heap sort => 651.050000 
+composite sort => 442.400000 
+
+
+n = 6726
+insertion sort => 16889.200000 
+quick sort => 532.000000 
+merge sort => 518.680000 
+heap sort => 632.100000 
+composite sort => 422.300000 
+
+
+n = 6751
+insertion sort => 17113.800000 
+quick sort => 502.000000 
+merge sort => 511.480000 
+heap sort => 659.650000 
+composite sort => 424.300000 
+
+
+n = 6776
+insertion sort => 17498.500000 
+quick sort => 534.500000 
+merge sort => 515.160000 
+heap sort => 639.950000 
+composite sort => 438.050000 
+
+
+n = 6801
+insertion sort => 17353.800000 
+quick sort => 496.200000 
+merge sort => 529.200000 
+heap sort => 638.050000 
+composite sort => 443.600000 
+
+
+n = 6826
+insertion sort => 17379.200000 
+quick sort => 499.300000 
+merge sort => 521.080000 
+heap sort => 664.750000 
+composite sort => 442.150000 
+
+
+n = 6851
+insertion sort => 17732.300000 
+quick sort => 505.300000 
+merge sort => 525.800000 
+heap sort => 648.000000 
+composite sort => 434.850000 
+
+
+n = 6876
+insertion sort => 18051.700000 
+quick sort => 532.000000 
+merge sort => 535.720000 
+heap sort => 649.050000 
+composite sort => 444.700000 
+
+
+n = 6901
+insertion sort => 17953.100000 
+quick sort => 508.500000 
+merge sort => 533.160000 
+heap sort => 668.900000 
+composite sort => 432.400000 
+
+
+n = 6926
+insertion sort => 18010.200000 
+quick sort => 515.200000 
+merge sort => 538.720000 
+heap sort => 685.900000 
+composite sort => 435.300000 
+
+
+n = 6951
+insertion sort => 18559.000000 
+quick sort => 561.700000 
+merge sort => 529.040000 
+heap sort => 657.700000 
+composite sort => 465.150000 
+
+
+n = 6976
+insertion sort => 18231.100000 
+quick sort => 505.600000 
+merge sort => 542.160000 
+heap sort => 695.500000 
+composite sort => 465.550000 
+
+
+n = 7001
+insertion sort => 18309.700000 
+quick sort => 508.000000 
+merge sort => 550.960000 
+heap sort => 676.950000 
+composite sort => 455.750000 
+
+
+n = 7026
+insertion sort => 18485.500000 
+quick sort => 510.300000 
+merge sort => 550.280000 
+heap sort => 672.250000 
+composite sort => 454.200000 
+
+
+n = 7051
+insertion sort => 18799.300000 
+quick sort => 518.300000 
+merge sort => 550.200000 
+heap sort => 672.400000 
+composite sort => 457.100000 
+
+
+n = 7076
+insertion sort => 18765.600000 
+quick sort => 547.900000 
+merge sort => 539.960000 
+heap sort => 674.150000 
+composite sort => 461.950000 
+
+
+n = 7101
+insertion sort => 18922.400000 
+quick sort => 541.500000 
+merge sort => 545.800000 
+heap sort => 674.150000 
+composite sort => 495.200000 
+
+
+n = 7126
+insertion sort => 19175.300000 
+quick sort => 544.000000 
+merge sort => 538.520000 
+heap sort => 680.000000 
+composite sort => 461.850000 
+
+
+n = 7151
+insertion sort => 19011.500000 
+quick sort => 550.400000 
+merge sort => 552.960000 
+heap sort => 674.100000 
+composite sort => 462.300000 
+
+
+n = 7176
+insertion sort => 18875.000000 
+quick sort => 530.600000 
+merge sort => 552.440000 
+heap sort => 688.050000 
+composite sort => 481.400000 
+
+
+n = 7201
+insertion sort => 19310.500000 
+quick sort => 551.900000 
+merge sort => 551.760000 
+heap sort => 710.300000 
+composite sort => 464.600000 
+
+
+n = 7226
+insertion sort => 19526.400000 
+quick sort => 540.200000 
+merge sort => 571.040000 
+heap sort => 680.800000 
+composite sort => 472.000000 
+
+
+n = 7251
+insertion sort => 20364.600000 
+quick sort => 537.200000 
+merge sort => 569.400000 
+heap sort => 705.500000 
+composite sort => 460.200000 
+
+
+n = 7276
+insertion sort => 19744.600000 
+quick sort => 536.100000 
+merge sort => 552.000000 
+heap sort => 710.200000 
+composite sort => 458.750000 
+
+
+n = 7301
+insertion sort => 20073.100000 
+quick sort => 547.600000 
+merge sort => 554.640000 
+heap sort => 700.050000 
+composite sort => 473.250000 
+
+
+n = 7326
+insertion sort => 20002.600000 
+quick sort => 549.800000 
+merge sort => 566.880000 
+heap sort => 707.800000 
+composite sort => 467.050000 
+
+
+n = 7351
+insertion sort => 20356.500000 
+quick sort => 550.000000 
+merge sort => 567.800000 
+heap sort => 738.400000 
+composite sort => 480.500000 
+
+
+n = 7376
+insertion sort => 20273.900000 
+quick sort => 553.900000 
+merge sort => 571.840000 
+heap sort => 708.700000 
+composite sort => 471.500000 
+
+
+n = 7401
+insertion sort => 20164.600000 
+quick sort => 534.300000 
+merge sort => 572.560000 
+heap sort => 722.800000 
+composite sort => 468.150000 
+
+
+n = 7426
+insertion sort => 20473.400000 
+quick sort => 568.000000 
+merge sort => 576.160000 
+heap sort => 716.600000 
+composite sort => 491.000000 
+
+
+n = 7451
+insertion sort => 21104.700000 
+quick sort => 566.000000 
+merge sort => 579.600000 
+heap sort => 734.700000 
+composite sort => 483.800000 
+
+
+n = 7476
+insertion sort => 20837.100000 
+quick sort => 582.200000 
+merge sort => 587.680000 
+heap sort => 707.050000 
+composite sort => 478.350000 
+
+
+n = 7501
+insertion sort => 20949.400000 
+quick sort => 550.600000 
+merge sort => 577.120000 
+heap sort => 725.950000 
+composite sort => 491.850000 
+
+
+n = 7526
+insertion sort => 21396.400000 
+quick sort => 551.700000 
+merge sort => 574.840000 
+heap sort => 726.500000 
+composite sort => 484.500000 
+
+
+n = 7551
+insertion sort => 20715.300000 
+quick sort => 548.100000 
+merge sort => 596.160000 
+heap sort => 772.100000 
+composite sort => 496.900000 
+
+
+n = 7576
+insertion sort => 21515.000000 
+quick sort => 570.700000 
+merge sort => 582.400000 
+heap sort => 736.150000 
+composite sort => 489.950000 
+
+
+n = 7601
+insertion sort => 21699.000000 
+quick sort => 577.800000 
+merge sort => 587.600000 
+heap sort => 741.050000 
+composite sort => 509.800000 
+
+
+n = 7626
+insertion sort => 21693.900000 
+quick sort => 567.700000 
+merge sort => 610.360000 
+heap sort => 744.100000 
+composite sort => 488.400000 
+
+
+n = 7651
+insertion sort => 22045.300000 
+quick sort => 576.000000 
+merge sort => 586.000000 
+heap sort => 756.350000 
+composite sort => 502.350000 
+
+
+n = 7676
+insertion sort => 22110.200000 
+quick sort => 579.400000 
+merge sort => 589.200000 
+heap sort => 756.900000 
+composite sort => 502.200000 
+
+
+n = 7701
+insertion sort => 21998.600000 
+quick sort => 569.400000 
+merge sort => 594.080000 
+heap sort => 755.050000 
+composite sort => 491.600000 
+
+
+n = 7726
+insertion sort => 22385.900000 
+quick sort => 588.000000 
+merge sort => 593.240000 
+heap sort => 759.000000 
+composite sort => 514.800000 
+
+
+n = 7751
+insertion sort => 22892.000000 
+quick sort => 616.300000 
+merge sort => 611.360000 
+heap sort => 758.900000 
+composite sort => 495.850000 
+
+
+n = 7776
+insertion sort => 22745.200000 
+quick sort => 567.800000 
+merge sort => 601.800000 
+heap sort => 750.650000 
+composite sort => 506.600000 
+
+
+n = 7801
+insertion sort => 22602.600000 
+quick sort => 570.900000 
+merge sort => 627.320000 
+heap sort => 762.100000 
+composite sort => 502.350000 
+
+
+n = 7826
+insertion sort => 23009.100000 
+quick sort => 582.900000 
+merge sort => 604.560000 
+heap sort => 771.250000 
+composite sort => 525.450000 
+
+
+n = 7851
+insertion sort => 22997.100000 
+quick sort => 599.000000 
+merge sort => 608.000000 
+heap sort => 757.900000 
+composite sort => 502.650000 
+
+
+n = 7876
+insertion sort => 22902.800000 
+quick sort => 612.700000 
+merge sort => 628.800000 
+heap sort => 751.800000 
+composite sort => 513.700000 
+
+
+n = 7901
+insertion sort => 23631.400000 
+quick sort => 585.800000 
+merge sort => 614.600000 
+heap sort => 805.350000 
+composite sort => 534.100000 
+
+
+n = 7926
+insertion sort => 24160.000000 
+quick sort => 594.900000 
+merge sort => 609.560000 
+heap sort => 775.500000 
+composite sort => 515.350000 
+
+
+n = 7951
+insertion sort => 23356.100000 
+quick sort => 595.400000 
+merge sort => 607.400000 
+heap sort => 770.000000 
+composite sort => 527.450000 
+
+
+n = 7976
+insertion sort => 24079.100000 
+quick sort => 598.100000 
+merge sort => 612.000000 
+heap sort => 784.300000 
+composite sort => 509.550000 
+
+
+n = 8001
+insertion sort => 23846.000000 
+quick sort => 592.500000 
+merge sort => 626.560000 
+heap sort => 774.600000 
+composite sort => 509.650000 
+
+
+n = 8026
+insertion sort => 24321.800000 
+quick sort => 601.400000 
+merge sort => 626.880000 
+heap sort => 777.650000 
+composite sort => 528.500000 
+
+
+n = 8051
+insertion sort => 23819.400000 
+quick sort => 601.600000 
+merge sort => 638.120000 
+heap sort => 799.100000 
+composite sort => 520.500000 
+
+
+n = 8076
+insertion sort => 24447.300000 
+quick sort => 580.900000 
+merge sort => 636.280000 
+heap sort => 783.950000 
+composite sort => 511.750000 
+
+
+n = 8101
+insertion sort => 24582.000000 
+quick sort => 622.100000 
+merge sort => 637.520000 
+heap sort => 773.450000 
+composite sort => 537.000000 
+
+
+n = 8126
+insertion sort => 24986.500000 
+quick sort => 621.200000 
+merge sort => 639.440000 
+heap sort => 783.900000 
+composite sort => 520.450000 
+
+
+n = 8151
+insertion sort => 24998.700000 
+quick sort => 623.600000 
+merge sort => 636.520000 
+heap sort => 780.200000 
+composite sort => 518.050000 
+
+
+n = 8176
+insertion sort => 24840.000000 
+quick sort => 621.000000 
+merge sort => 625.080000 
+heap sort => 798.750000 
+composite sort => 542.300000 
+
+
+n = 8201
+insertion sort => 25758.000000 
+quick sort => 639.200000 
+merge sort => 684.120000 
+heap sort => 788.400000 
+composite sort => 577.900000 
+
+
+n = 8226
+insertion sort => 25327.600000 
+quick sort => 610.400000 
+merge sort => 656.520000 
+heap sort => 799.550000 
+composite sort => 574.400000 
+
+
+n = 8251
+insertion sort => 25443.700000 
+quick sort => 621.300000 
+merge sort => 653.400000 
+heap sort => 796.750000 
+composite sort => 535.900000 
+
+
+n = 8276
+insertion sort => 27212.800000 
+quick sort => 660.300000 
+merge sort => 674.400000 
+heap sort => 818.300000 
+composite sort => 541.550000 
+
+
+n = 8301
+insertion sort => 25937.200000 
+quick sort => 622.800000 
+merge sort => 652.560000 
+heap sort => 808.600000 
+composite sort => 534.350000 
+
+
+n = 8326
+insertion sort => 25642.800000 
+quick sort => 620.100000 
+merge sort => 646.680000 
+heap sort => 828.400000 
+composite sort => 529.650000 
+
+
+n = 8351
+insertion sort => 26073.200000 
+quick sort => 628.000000 
+merge sort => 643.200000 
+heap sort => 820.000000 
+composite sort => 573.750000 
+
+
+n = 8376
+insertion sort => 26765.200000 
+quick sort => 626.600000 
+merge sort => 674.960000 
+heap sort => 835.250000 
+composite sort => 550.200000 
+
+
+n = 8401
+insertion sort => 26127.900000 
+quick sort => 632.700000 
+merge sort => 648.320000 
+heap sort => 840.150000 
+composite sort => 559.000000 
+
+
+n = 8426
+insertion sort => 26437.900000 
+quick sort => 660.100000 
+merge sort => 715.360000 
+heap sort => 807.000000 
+composite sort => 548.400000 
+
+
+n = 8451
+insertion sort => 27829.800000 
+quick sort => 654.000000 
+merge sort => 683.040000 
+heap sort => 873.950000 
+composite sort => 590.850000 
+
+
+n = 8476
+insertion sort => 26471.100000 
+quick sort => 636.300000 
+merge sort => 749.080000 
+heap sort => 838.300000 
+composite sort => 605.700000 
+
+
+n = 8501
+insertion sort => 26952.500000 
+quick sort => 640.900000 
+merge sort => 714.720000 
+heap sort => 824.500000 
+composite sort => 565.100000 
+
+
+n = 8526
+insertion sort => 27705.700000 
+quick sort => 631.700000 
+merge sort => 664.200000 
+heap sort => 819.800000 
+composite sort => 569.800000 
+
+
+n = 8551
+insertion sort => 27157.300000 
+quick sort => 632.900000 
+merge sort => 657.960000 
+heap sort => 838.850000 
+composite sort => 574.850000 
+
+
+n = 8576
+insertion sort => 28733.700000 
+quick sort => 657.400000 
+merge sort => 700.160000 
+heap sort => 837.650000 
+composite sort => 554.150000 
+
+
+n = 8601
+insertion sort => 28443.900000 
+quick sort => 655.500000 
+merge sort => 673.400000 
+heap sort => 830.450000 
+composite sort => 562.900000 
+
+
+n = 8626
+insertion sort => 28038.800000 
+quick sort => 655.800000 
+merge sort => 693.240000 
+heap sort => 841.850000 
+composite sort => 560.900000 
+
+
+n = 8651
+insertion sort => 28030.300000 
+quick sort => 672.100000 
+merge sort => 684.520000 
+heap sort => 849.050000 
+composite sort => 571.200000 
+
+
+n = 8676
+insertion sort => 28895.900000 
+quick sort => 677.600000 
+merge sort => 688.240000 
+heap sort => 863.550000 
+composite sort => 586.900000 
+
+
+n = 8701
+insertion sort => 28470.600000 
+quick sort => 642.000000 
+merge sort => 668.400000 
+heap sort => 858.850000 
+composite sort => 563.850000 
+
+
+n = 8726
+insertion sort => 28774.900000 
+quick sort => 651.800000 
+merge sort => 674.040000 
+heap sort => 899.250000 
+composite sort => 596.450000 
+
+
+n = 8751
+insertion sort => 28614.800000 
+quick sort => 652.200000 
+merge sort => 690.760000 
+heap sort => 856.650000 
+composite sort => 581.100000 
+
+
+n = 8776
+insertion sort => 28409.600000 
+quick sort => 645.900000 
+merge sort => 692.640000 
+heap sort => 859.200000 
+composite sort => 570.450000 
+
+
+n = 8801
+insertion sort => 28846.700000 
+quick sort => 653.900000 
+merge sort => 692.000000 
+heap sort => 849.100000 
+composite sort => 584.050000 
+
+
+n = 8826
+insertion sort => 29242.300000 
+quick sort => 661.100000 
+merge sort => 687.520000 
+heap sort => 900.800000 
+composite sort => 573.100000 
+
+
+n = 8851
+insertion sort => 29584.400000 
+quick sort => 701.800000 
+merge sort => 690.280000 
+heap sort => 859.100000 
+composite sort => 589.150000 
+
+
+n = 8876
+insertion sort => 29283.100000 
+quick sort => 649.700000 
+merge sort => 695.000000 
+heap sort => 867.950000 
+composite sort => 588.600000 
+
+
+n = 8901
+insertion sort => 29823.300000 
+quick sort => 657.200000 
+merge sort => 705.960000 
+heap sort => 874.550000 
+composite sort => 611.550000 
+
+
+n = 8926
+insertion sort => 29740.600000 
+quick sort => 659.200000 
+merge sort => 698.840000 
+heap sort => 893.150000 
+composite sort => 585.400000 
+
+
+n = 8951
+insertion sort => 30460.200000 
+quick sort => 674.100000 
+merge sort => 713.760000 
+heap sort => 894.500000 
+composite sort => 592.250000 
+
+
+n = 8976
+insertion sort => 29940.400000 
+quick sort => 659.700000 
+merge sort => 691.160000 
+heap sort => 876.950000 
+composite sort => 597.800000 
+
+
+n = 9001
+insertion sort => 30271.600000 
+quick sort => 662.900000 
+merge sort => 721.880000 
+heap sort => 884.500000 
+composite sort => 644.850000 
+
+
+n = 9026
+insertion sort => 30876.800000 
+quick sort => 674.300000 
+merge sort => 695.320000 
+heap sort => 890.350000 
+composite sort => 592.800000 
+
+
+n = 9051
+insertion sort => 31111.400000 
+quick sort => 666.700000 
+merge sort => 702.760000 
+heap sort => 901.200000 
+composite sort => 588.000000 
+
+
+n = 9076
+insertion sort => 30658.800000 
+quick sort => 695.000000 
+merge sort => 716.800000 
+heap sort => 883.250000 
+composite sort => 703.200000 
+
+
+n = 9101
+insertion sort => 31966.800000 
+quick sort => 666.700000 
+merge sort => 743.080000 
+heap sort => 905.800000 
+composite sort => 609.300000 
+
+
+n = 9126
+insertion sort => 31567.900000 
+quick sort => 675.600000 
+merge sort => 709.560000 
+heap sort => 898.050000 
+composite sort => 609.300000 
+
+
+n = 9151
+insertion sort => 31868.400000 
+quick sort => 684.200000 
+merge sort => 723.480000 
+heap sort => 925.850000 
+composite sort => 607.050000 
+
+
+n = 9176
+insertion sort => 31639.700000 
+quick sort => 730.800000 
+merge sort => 716.280000 
+heap sort => 891.300000 
+composite sort => 634.100000 
+
+
+n = 9201
+insertion sort => 31867.700000 
+quick sort => 695.100000 
+merge sort => 737.560000 
+heap sort => 899.400000 
+composite sort => 608.100000 
+
+
+n = 9226
+insertion sort => 32113.300000 
+quick sort => 719.500000 
+merge sort => 712.480000 
+heap sort => 905.800000 
+composite sort => 648.750000 
+
+
+n = 9251
+insertion sort => 31743.400000 
+quick sort => 686.200000 
+merge sort => 732.960000 
+heap sort => 914.550000 
+composite sort => 625.550000 
+
+
+n = 9276
+insertion sort => 34166.500000 
+quick sort => 725.800000 
+merge sort => 786.440000 
+heap sort => 973.650000 
+composite sort => 654.600000 
+
+
+n = 9301
+insertion sort => 32638.400000 
+quick sort => 684.000000 
+merge sort => 727.320000 
+heap sort => 902.000000 
+composite sort => 606.700000 
+
+
+n = 9326
+insertion sort => 32715.200000 
+quick sort => 678.400000 
+merge sort => 729.000000 
+heap sort => 937.800000 
+composite sort => 609.100000 
+
+
+n = 9351
+insertion sort => 32643.600000 
+quick sort => 691.400000 
+merge sort => 734.600000 
+heap sort => 908.300000 
+composite sort => 601.000000 
+
+
+n = 9376
+insertion sort => 33122.500000 
+quick sort => 691.300000 
+merge sort => 735.280000 
+heap sort => 923.750000 
+composite sort => 625.300000 
+
+
+n = 9401
+insertion sort => 33306.100000 
+quick sort => 774.500000 
+merge sort => 729.640000 
+heap sort => 933.400000 
+composite sort => 626.350000 
+
+
+n = 9426
+insertion sort => 33853.800000 
+quick sort => 694.700000 
+merge sort => 727.560000 
+heap sort => 923.150000 
+composite sort => 640.600000 
+
+
+n = 9451
+insertion sort => 33792.300000 
+quick sort => 719.500000 
+merge sort => 734.600000 
+heap sort => 922.850000 
+composite sort => 620.100000 
+
+
+n = 9476
+insertion sort => 34196.300000 
+quick sort => 697.800000 
+merge sort => 740.480000 
+heap sort => 956.200000 
+composite sort => 616.550000 
+
+
+n = 9501
+insertion sort => 33796.900000 
+quick sort => 724.000000 
+merge sort => 746.240000 
+heap sort => 922.600000 
+composite sort => 624.650000 
+
+
+n = 9526
+insertion sort => 34238.400000 
+quick sort => 719.700000 
+merge sort => 744.480000 
+heap sort => 926.200000 
+composite sort => 617.450000 
+
+
+n = 9551
+insertion sort => 33895.800000 
+quick sort => 718.800000 
+merge sort => 742.840000 
+heap sort => 927.400000 
+composite sort => 616.450000 
+
+
+n = 9576
+insertion sort => 34413.800000 
+quick sort => 738.600000 
+merge sort => 750.280000 
+heap sort => 961.750000 
+composite sort => 654.000000 
+
+
+n = 9601
+insertion sort => 34733.700000 
+quick sort => 718.300000 
+merge sort => 753.000000 
+heap sort => 931.900000 
+composite sort => 631.450000 
+
+
+n = 9626
+insertion sort => 34880.900000 
+quick sort => 738.900000 
+merge sort => 754.480000 
+heap sort => 937.650000 
+composite sort => 635.500000 
+
+
+n = 9651
+insertion sort => 34858.200000 
+quick sort => 716.900000 
+merge sort => 744.000000 
+heap sort => 950.650000 
+composite sort => 651.200000 
+
+
+n = 9676
+insertion sort => 35693.500000 
+quick sort => 737.900000 
+merge sort => 752.160000 
+heap sort => 961.800000 
+composite sort => 634.250000 
+
+
+n = 9701
+insertion sort => 35105.900000 
+quick sort => 720.800000 
+merge sort => 755.520000 
+heap sort => 950.700000 
+composite sort => 640.500000 
+
+
+n = 9726
+insertion sort => 35726.600000 
+quick sort => 720.100000 
+merge sort => 758.880000 
+heap sort => 965.750000 
+composite sort => 654.250000 
+
+
+n = 9751
+insertion sort => 35612.700000 
+quick sort => 715.500000 
+merge sort => 759.480000 
+heap sort => 948.900000 
+composite sort => 641.800000 
+
+
+n = 9776
+insertion sort => 35925.100000 
+quick sort => 721.500000 
+merge sort => 759.280000 
+heap sort => 993.300000 
+composite sort => 650.950000 
+
+
+n = 9801
+insertion sort => 35824.800000 
+quick sort => 736.900000 
+merge sort => 804.680000 
+heap sort => 955.800000 
+composite sort => 651.500000 
+
+
+n = 9826
+insertion sort => 36100.900000 
+quick sort => 725.400000 
+merge sort => 774.880000 
+heap sort => 969.200000 
+composite sort => 645.850000 
+
+
+n = 9851
+insertion sort => 36481.100000 
+quick sort => 727.500000 
+merge sort => 761.800000 
+heap sort => 970.900000 
+composite sort => 654.000000 
+
+
+n = 9876
+insertion sort => 36521.700000 
+quick sort => 727.000000 
+merge sort => 773.160000 
+heap sort => 974.200000 
+composite sort => 652.800000 
+
+
+n = 9901
+insertion sort => 37391.900000 
+quick sort => 728.400000 
+merge sort => 770.280000 
+heap sort => 977.750000 
+composite sort => 648.450000 
+
+
+n = 9926
+insertion sort => 36834.300000 
+quick sort => 761.700000 
+merge sort => 782.600000 
+heap sort => 974.200000 
+composite sort => 644.250000 
+
+
+n = 9951
+insertion sort => 37375.700000 
+quick sort => 762.000000 
+merge sort => 793.720000 
+heap sort => 985.300000 
+composite sort => 652.250000 
+
+
+n = 9976
+insertion sort => 37036.000000 
+quick sort => 757.800000 
+merge sort => 782.080000 
+heap sort => 974.750000 
+composite sort => 649.650000 
+
+
